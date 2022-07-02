@@ -35,7 +35,7 @@ body {
 .wrapper {
   height: 60px;
   width: 55vw;
-  background: #fff;
+  background: rgb(121, 47, 47);
   line-height: 60px;
   border-radius: 50px;
   box-shadow: 0 5px 10px rgba(0, 0, 0.25);
